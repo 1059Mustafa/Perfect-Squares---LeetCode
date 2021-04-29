@@ -1,1 +1,1 @@
-# Perfect-Squares---LeetCode
+# HARD-Perfect-Squares---LeetCode
